@@ -1,0 +1,26 @@
+HoneyTrack-Secure-Asset-Tracker/
+│
+├── README.md                 # Main project documentation
+├── LICENSE                   # MIT license (recommended)
+│
+├── dashboard/                # Your Flask frontend code
+│   ├── app.py
+│   ├── requirements.txt
+│   ├── templates/
+│   │   └── index.html
+│   └── static/
+│       ├── css/
+│       ├── js/
+│       │   └── script.js
+│       └── images/
+│
+├── firmware/                 # ESP32 code (add when hardware arrives)
+│   └── (coming soon)
+│
+├── docs/                     # Documentation
+│   ├── hardware-setup.md
+│   ├── api-reference.md
+│   └── troubleshooting.md
+│
+└── images/                   # Photos and screenshots
+    └── dashboard-screenshot.png
