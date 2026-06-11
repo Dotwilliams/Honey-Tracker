@@ -70,7 +70,7 @@ The web dashboard is fully functional:
 | Buzzer module | 1 | Physical alerts |
 | Jumper wires (F-F) | 8 | Connections |
 
-**Estimated Total Cost:** ~RM 60-80
+
 
 ## 💻 Software Stack
 
